@@ -1,4 +1,4 @@
-﻿# Akaunting™
+# Akaunting™
 
 [![Release](https://img.shields.io/github/v/release/akaunting/akaunting?label=release)](https://github.com/akaunting/akaunting/releases)
 ![Downloads](https://img.shields.io/github/downloads/akaunting/akaunting/total?label=downloads)
@@ -7,12 +7,16 @@
 
 Online accounting software designed for small businesses and freelancers. Akaunting is built with modern technologies such as Laravel, VueJS, Tailwind, RESTful API etc. Thanks to its modular structure, Akaunting provides an awesome App Store for users and developers.
 
+This repository is maintained by **LibreAkaunto** as an EU-compliance-focused distribution of Akaunting.  
+Under the current [BSL license](LICENSE.txt), product branding inside the application remains **Akaunting** unless separate commercial permission is obtained from the licensor.
+
 * [Home](https://akaunting.com) - The house of Akaunting
 * [Forum](https://akaunting.com/forum) - Ask for support
 * [Documentation](https://akaunting.com/hc/docs) - Learn how to use
 * [Developer Portal](https://developer.akaunting.com) - Generate passive income
 * [App Store](https://akaunting.com/apps) - Extend your Akaunting
 * [Translations](https://crowdin.com/project/akaunting) - Help us translate Akaunting
+* [LibreAkaunto Fork Compliance Guide](FORK_COMPLIANCE.md) - Fork naming, licensing, and EU compliance scope
 
 ## Requirements
 
@@ -41,7 +45,7 @@ For the full list of PHP extensions and server requirements, see the [on-premise
 
 Then install Akaunting:
 
-* Clone the repository: `git clone https://github.com/akaunting/akaunting.git`
+* Clone the repository: `git clone https://github.com/LibreAkaunto/akaunting.git`
 * Install dependencies: `composer install ; npm install ; npm run dev`
 * Install Akaunting:
 
@@ -80,3 +84,4 @@ Please review [our security policy](https://github.com/akaunting/akaunting/secur
 ## License
 
 Akaunting is released under the [BSL license](LICENSE.txt).
+LibreAkaunto distributions must preserve required attribution and branding constraints defined in this license.
