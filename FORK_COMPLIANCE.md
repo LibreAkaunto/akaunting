@@ -52,6 +52,6 @@ Before public release, perform a legal review covering:
 
 - BSL interpretation for the target use case.
 - Trademark and branding usage in product/UI/distribution channels.
-- Accuracy of any “EU-compliant” claims and wording.
+- Accuracy of any “EU-compliance” claims and wording.
 
 > This guide is a project policy note, not legal advice.
